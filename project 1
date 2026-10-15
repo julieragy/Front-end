@@ -1,0 +1,92 @@
+<head>
+  <center>
+<h1 style="color: rgb(158, 27, 125);">Julie Ragy</h1>
+<p style="color: rgb(127, 25, 136);"><b>Front End Developer</b></p>
+</center>
+</head>
+<body>
+<h2 style="color: rgb(161, 35, 113);"><b>About Me</b></h2>
+<p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Adipisci aut numquam sit dolores esse quasi quae perferendis, cum aliquid aspernatur possimus in minima assumenda? Nulla sequi quos mollitia dolores quia!</p>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni voluptas accusantium enim laboriosam delectus iure, perspiciatis ea eveniet itaque fugit consequatur et, expedita tenetur accusamus in fuga quidem dignissimos. Magnam!</p>
+<h2 style="background-color: rgb(100, 14, 57);">Skills</h2>
+<ul>
+  <a href=""><li>html</li></a>
+  <a href=""><li>css</li></a>
+  <a href=""><li>javascript</li></a>
+  <a href=""><li>react.js</li></a>
+  <a href=""><li>angular</li></a>
+</ul>
+<h2 style="color: rgb(155, 13, 91);">Experience Timeline</h2>
+  <center>
+    <p>Professional Experience Overview</p>
+</center>
+<table border="1">
+  <tr style="background-color: rgb(71, 8, 66);  color: aliceblue;">
+    <th>company</th>
+    <th>logo</th>
+    <th>role</th>
+    <th>key achievement</th>
+    <th>dates</th>
+  </tr>
+<tr>
+  <td rowspan="2">techcorp</td>
+  <td rowspan="2"><img src="c:\Users\Lenovo\Desktop\images.png" alt=""></td>
+  <td>senior full stack developer</td>
+  <td><ul><li>lead development of web application</li><li>mentor junior developers</li><li>architect scalable solutions</li></ul></td>
+  <td>jan 2023-present</td>
+</tr>
+<tr>
+  <td>full stack developer</td>
+    <td><ul><li>lead development of web application</li><li>mentor junior developers</li><li>architect scalable solutions</li></ul></td>
+    <td>2021-2023</td>
+</tr>
+<tr>
+  <td>digital agency pro</td>
+  <td><img src="c:\Users\Lenovo\Desktop\images.jpg" alt=""></td>
+  <td>frontend developer</td>
+  <td><ul><li>lead development of web application</li><li>mentor junior developers</li><li>architect scalable solutions</li></ul></td>
+  <td>2019 - 2020</td>
+</tr>
+<tr>
+  <td>web design studio</td>
+  <td><img src="c:\Users\Lenovo\Desktop\fe4f2164197a937a48156f97c0cd7212.jpg" alt=""></td>
+  <td>junior web developer</td>
+  <td><ul><li>lead development of web application</li><li>mentor junior developers</li><li>architect scalable solutions</li></ul></td>
+  <td>2019 - 2020</td>
+</tr>
+<tr><td colspan="5">total Experience 5+ years in web developer</td></tr>
+
+</table>
+<h2 style="color: rgb(75, 10, 48);">Contact Me</h2>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit at repudiandae esse libero magnam quod ab? Molestias fuga animi qui!</p>
+
+<form>
+  <fieldset>
+     <legend>personal information</legend>
+     <table>
+      <tr>
+        <td>first name</td>
+        <td>
+        <input type="text" name="first name">
+        <td>last name</td>
+        <td><input type="text" name="lastName"></td>
+        </td>
+      </tr>
+      <tr>
+       <td>Email Address:</td>
+       <td><input type="email" name="email"></td>
+       <td>phone number</td>
+       <td><input type="text" name="phone"></td>
+      </tr>
+      <tr>
+       <td>preferred meeting date</td>
+       <td><input type="text" name="meetingDate"></td>
+       <td>best time to Contact</td>
+       <td><input type="text" name="contactTime"></td>
+      </tr>
+     </table>
+  </fieldset>
+</form>
+<input style="background-color: rgb(14, 14, 122);color: aliceblue;" type="submit" value="send message">
+<input style="background-color: rgb(255, 0, 0);color: aliceblue;" type="submit" value="clear data">
+</body>
